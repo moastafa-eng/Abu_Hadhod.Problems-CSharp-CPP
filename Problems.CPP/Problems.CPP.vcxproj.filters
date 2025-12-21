@@ -19,6 +19,9 @@
     <Filter Include="Problems\0001-Multiplication-table 1 to 10">
       <UniqueIdentifier>{88df81f5-3f2e-473e-b54d-beee589b62e1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\Print all  prime numbers 1 to n">
+      <UniqueIdentifier>{b4c9e9f4-98da-4c00-b03c-3d959faae7ad}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problems.CPP.cpp">
@@ -26,6 +29,9 @@
     </ClCompile>
     <ClCompile Include="Problem_1.cpp">
       <Filter>Problems\0001-Multiplication-table 1 to 10</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_2.cpp">
+      <Filter>Problems\Print all  prime numbers 1 to n</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

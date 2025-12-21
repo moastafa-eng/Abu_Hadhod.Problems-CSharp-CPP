@@ -6,7 +6,11 @@ namespace Problems.CSharp
     {
         static void Main(string[] args)
         {
+            #region 0001-Multiplication Table
             Problem_1 obj = new Problem_1();
+
+            obj.PrintMultiplicationTable(); 
+            #endregion
 
 
         }

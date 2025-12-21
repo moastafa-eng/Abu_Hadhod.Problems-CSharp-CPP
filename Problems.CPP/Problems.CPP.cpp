@@ -1,9 +1,16 @@
 #include <iostream>
 
-#include "0001-Multiplication-table 1 to 10.cpp";
+#include "Problem_1.cpp";
 
 int main()
 {
-    Problem_1 obj;
+
+#pragma region 0001-Multiplication Table
+	//Problem_1 obj;
+
+	//obj.PrintMultiplicationTable();
+#pragma endregion
+
+
 
 }

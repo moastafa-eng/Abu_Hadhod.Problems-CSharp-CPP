@@ -24,7 +24,7 @@
     <ClCompile Include="Problems.CPP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="0001-Multiplication-table 1 to 10.cpp">
+    <ClCompile Include="Problem_1.cpp">
       <Filter>Problems\0001-Multiplication-table 1 to 10</Filter>
     </ClCompile>
   </ItemGroup>

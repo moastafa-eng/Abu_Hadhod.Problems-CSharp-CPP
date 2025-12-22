@@ -25,6 +25,9 @@
     <Filter Include="Problems\0003-Perfect Number">
       <UniqueIdentifier>{bba26753-6713-4160-a026-583aad376acb}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\0004-Print perfect numbers from 1 to n">
+      <UniqueIdentifier>{c813e75d-da66-44bb-a5da-ad8c5c01ae51}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problems.CPP.cpp">
@@ -38,6 +41,9 @@
     </ClCompile>
     <ClCompile Include="Problem_3.cpp">
       <Filter>Problems\0003-Perfect Number</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_4.cpp">
+      <Filter>Problems\0004-Print perfect numbers from 1 to n</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -1,6 +1,6 @@
-﻿namespace Problems.CSharp.Problems._0003_Perfect_Number
+﻿namespace Problems.CSharp.Problems._0004_Print_perfect_numbers_from_1_to_n
 {
-    public class Problem_3
+    public class Problem_4
     {
         public int ReadPositiveNumber(string Message)
         {
@@ -14,7 +14,7 @@
             return number;
         }
 
-        public bool IsPerfectNumber(int number)
+        public bool IsPrimeNumber(int number)
         {
             int sum = 0;
 
@@ -29,15 +29,16 @@
             return (number == sum) ? true : false;
         }
 
-        public void PrintResult(int number)
+        public void PrintPerfectNumbers(int number)
         {
-            if(IsPerfectNumber(number))
+            Console.WriteLine("The perfect numbers are : ");
+
+            for (int i = 1; i <= number; i++)
             {
-                Console.WriteLine($"{number} Is perfect number");
-            }
-            else
-            {
-                Console.WriteLine($"{number} Is not perfect number");
+                if(IsPrimeNumber(i))
+                {
+                    Console.Write($"{i} ");
+                }
             }
         }
     }

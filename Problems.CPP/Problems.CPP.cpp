@@ -2,6 +2,7 @@
 
 #include "Problem_1.cpp";
 #include "Problem_2.cpp";
+#include "Problem_3.cpp";
 
 int main()
 {
@@ -19,6 +20,12 @@ int main()
 	//obj.PrintPrimeNumbersFromOneToN(number);
 #pragma endregion
 
+#pragma region 0003-Prime Number
+	//				Problem_3 obj;
+ //   int number = obj.ReadPositiveNumber("Enter a positive number : ");
+	//
+	//obj.PrintResult(number);
 
+#pragma endregion
 
 }

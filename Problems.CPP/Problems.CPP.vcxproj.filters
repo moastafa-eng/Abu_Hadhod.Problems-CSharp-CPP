@@ -19,8 +19,11 @@
     <Filter Include="Problems\0001-Multiplication-table 1 to 10">
       <UniqueIdentifier>{88df81f5-3f2e-473e-b54d-beee589b62e1}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Problems\Print all  prime numbers 1 to n">
+    <Filter Include="Problems\0002-Print all  prime numbers 1 to n">
       <UniqueIdentifier>{b4c9e9f4-98da-4c00-b03c-3d959faae7ad}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Problems\0003-Perfect Number">
+      <UniqueIdentifier>{bba26753-6713-4160-a026-583aad376acb}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -31,7 +34,10 @@
       <Filter>Problems\0001-Multiplication-table 1 to 10</Filter>
     </ClCompile>
     <ClCompile Include="Problem_2.cpp">
-      <Filter>Problems\Print all  prime numbers 1 to n</Filter>
+      <Filter>Problems\0002-Print all  prime numbers 1 to n</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_3.cpp">
+      <Filter>Problems\0003-Perfect Number</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

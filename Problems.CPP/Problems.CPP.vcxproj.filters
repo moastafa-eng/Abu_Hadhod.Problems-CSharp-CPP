@@ -28,6 +28,9 @@
     <Filter Include="Problems\0004-Print perfect numbers from 1 to n">
       <UniqueIdentifier>{c813e75d-da66-44bb-a5da-ad8c5c01ae51}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\0005-Reversed order">
+      <UniqueIdentifier>{a42a7cf2-4b80-4bae-b2a8-7fa8ee86af9d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problems.CPP.cpp">
@@ -44,6 +47,9 @@
     </ClCompile>
     <ClCompile Include="Problem_4.cpp">
       <Filter>Problems\0004-Print perfect numbers from 1 to n</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_5.cpp">
+      <Filter>Problems\0005-Reversed order</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

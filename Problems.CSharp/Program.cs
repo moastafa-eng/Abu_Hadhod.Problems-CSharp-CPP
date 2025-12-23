@@ -1,6 +1,7 @@
 ﻿using Problems.CSharp.Problems._0001_Multiplication_table_1_to_10;
 using Problems.CSharp.Problems._0003_Perfect_Number;
 using Problems.CSharp.Problems._0004_Print_perfect_numbers_from_1_to_n;
+using Problems.CSharp.Problems._0005_Reversed_order;
 using Problems.CSharp.Problems.Print_all__prime_numbers_from_1_to_n;
 
 namespace Problems.CSharp
@@ -36,6 +37,13 @@ namespace Problems.CSharp
             //int number = obj.ReadPositiveNumber("Enter positive number : ");
 
             //obj.PrintPerfectNumbers(number); 
+            #endregion
+
+            #region 0005-Reversed Order
+            //Problem_5 obj = new Problem_5();
+            //int number = obj.ReadPositiveNumber("Enter a positive number : ");
+
+            //obj.PrintResult(number); 
             #endregion
 
         }

@@ -1,9 +1,11 @@
 #include <iostream>
+#include <vector>
 
 #include "Problem_1.cpp";
 #include "Problem_2.cpp";
 #include "Problem_3.cpp";
 #include "Problem_4.cpp";
+#include "Problem_5.cpp";
 
 int main()
 {
@@ -34,6 +36,15 @@ int main()
 	//int number = obj.ReadPositiveNumber("Enter a positive number : ");
 
 	//obj.PrintPerfectNumbers(number);  
+#pragma endregion
+
+#pragma region 0005-Reversed Order
+					//Problem_5 obj;
+	//int number = obj.ReadPositiveNumber("Enter a positive number : ");
+
+	//obj.PrintResult(number);
+
+	//	return 0;  
 #pragma endregion
 
 

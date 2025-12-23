@@ -6,6 +6,7 @@
 #include "Problem_3.cpp";
 #include "Problem_4.cpp";
 #include "Problem_5.cpp";
+#include "Problem_6.cpp";
 
 int main()
 {
@@ -45,6 +46,13 @@ int main()
 	//obj.PrintResult(number);
 
 	//	return 0;  
+#pragma endregion
+
+#pragma region 0006-Sum of digits
+					//Problem_6 obj;
+	//int number = obj.ReadPositiveNumber("Enter a positive number : ");
+
+	//obj.SumDigits(number);  
 #pragma endregion
 
 

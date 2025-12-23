@@ -2,6 +2,7 @@
 using Problems.CSharp.Problems._0003_Perfect_Number;
 using Problems.CSharp.Problems._0004_Print_perfect_numbers_from_1_to_n;
 using Problems.CSharp.Problems._0005_Reversed_order;
+using Problems.CSharp.Problems._0006_Sum_of_digits;
 using Problems.CSharp.Problems.Print_all__prime_numbers_from_1_to_n;
 
 namespace Problems.CSharp
@@ -44,6 +45,13 @@ namespace Problems.CSharp
             //int number = obj.ReadPositiveNumber("Enter a positive number : ");
 
             //obj.PrintResult(number); 
+            #endregion
+
+            #region 0006-Sum Digits
+            //Problem_6 obj = new Problem_6();
+            //int number = obj.ReadPositiveNumber("Enter a positive number : ");
+
+            //obj.SumDigits(number); 
             #endregion
 
         }

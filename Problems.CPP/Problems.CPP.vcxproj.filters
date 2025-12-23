@@ -31,6 +31,9 @@
     <Filter Include="Problems\0005-Reversed order">
       <UniqueIdentifier>{a42a7cf2-4b80-4bae-b2a8-7fa8ee86af9d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\0006-Sum of digits">
+      <UniqueIdentifier>{fad23b90-5ca0-4ee5-bc7f-2c06bedf79f6}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problems.CPP.cpp">
@@ -50,6 +53,9 @@
     </ClCompile>
     <ClCompile Include="Problem_5.cpp">
       <Filter>Problems\0005-Reversed order</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_6.cpp">
+      <Filter>Problems\0006-Sum of digits</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

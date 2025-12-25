@@ -3,6 +3,7 @@ using Problems.CSharp.Problems._0003_Perfect_Number;
 using Problems.CSharp.Problems._0004_Print_perfect_numbers_from_1_to_n;
 using Problems.CSharp.Problems._0005_Reversed_order;
 using Problems.CSharp.Problems._0006_Sum_of_digits;
+using Problems.CSharp.Problems._0007_Reverse_number;
 using Problems.CSharp.Problems.Print_all__prime_numbers_from_1_to_n;
 
 namespace Problems.CSharp
@@ -53,6 +54,14 @@ namespace Problems.CSharp
 
             //obj.SumDigits(number); 
             #endregion
+
+            #region 0007-Reverse number
+            //Problem_7 obj = new Problem_7();
+            //int number = obj.ReadPositiveNumber("Enter a positive number : ");
+
+            //Console.WriteLine($"Reversed number is : {obj.ReverseNumber(number)}");  
+            #endregion
+
 
         }
     }

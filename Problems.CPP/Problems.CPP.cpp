@@ -7,6 +7,7 @@
 #include "Problem_4.cpp";
 #include "Problem_5.cpp";
 #include "Problem_6.cpp";
+#include "Problem_7.cpp";
 
 int main()
 {
@@ -55,5 +56,11 @@ int main()
 	//obj.SumDigits(number);  
 #pragma endregion
 
+#pragma region 0007-Reverse number
+					//Problem_7 obj;
+	//int number = obj.ReadPositiveNumber("Enter a positive number : ");
+
+	//cout << "Reversed number is : " << obj.ReverseNumber(number);  
+#pragma endregion
 
 }

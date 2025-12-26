@@ -37,6 +37,9 @@
     <Filter Include="Problems\0007-Reverse number">
       <UniqueIdentifier>{e28325bb-752e-47ce-b82e-99bf2e940e26}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\0008-Count digit frequency">
+      <UniqueIdentifier>{a3917405-a71b-48ea-8921-17d2042fdf4f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problems.CPP.cpp">
@@ -62,6 +65,9 @@
     </ClCompile>
     <ClCompile Include="Problem_7.cpp">
       <Filter>Problems\0007-Reverse number</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_8.cpp">
+      <Filter>Problems\0008-Count digit frequency</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

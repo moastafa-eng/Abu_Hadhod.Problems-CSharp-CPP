@@ -5,6 +5,7 @@ using Problems.CSharp.Problems._0005_Reversed_order;
 using Problems.CSharp.Problems._0006_Sum_of_digits;
 using Problems.CSharp.Problems._0007_Reverse_number;
 using Problems.CSharp.Problems._0008_Count_digit_frequency;
+using Problems.CSharp.Problems._0009_Digit_frequency;
 using Problems.CSharp.Problems.Print_all__prime_numbers_from_1_to_n;
 
 namespace Problems.CSharp
@@ -71,6 +72,15 @@ namespace Problems.CSharp
             //Console.WriteLine($"Number {numberToCheck} frequency is : {obj.CheckDigitFrequency(number, numberToCheck)}");
 
             #endregion
+
+            #region 0009-Digit frequency.
+            //Problem_9 obj = new Problem_9();
+            //int number = obj.ReadPositiveNumber("Enter a positive number : ");
+            //Console.WriteLine();
+             
+            //obj.PrintDigitFrequency(number); 
+            #endregion
+
 
         }
     }

@@ -40,6 +40,9 @@
     <Filter Include="Problems\0008-Count digit frequency">
       <UniqueIdentifier>{a3917405-a71b-48ea-8921-17d2042fdf4f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\0009-Digit frequency">
+      <UniqueIdentifier>{84696934-4cf3-4dc9-8f3a-e66ecd3c5c97}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problems.CPP.cpp">
@@ -68,6 +71,9 @@
     </ClCompile>
     <ClCompile Include="Problem_8.cpp">
       <Filter>Problems\0008-Count digit frequency</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_9.cpp">
+      <Filter>Problems\0009-Digit frequency</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

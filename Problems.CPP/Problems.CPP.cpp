@@ -9,6 +9,7 @@
 #include "Problem_6.cpp";
 #include "Problem_7.cpp";
 #include "Problem_8.cpp";
+#include "Problem_9.cpp";
 
 int main()
 {
@@ -64,12 +65,19 @@ int main()
 	//cout << "Reversed number is : " << obj.ReverseNumber(number);  
 #pragma endregion
 
-#pragma region 0008-Count digit fequency.
+#pragma region 000.8-Count digit fequency.
 					//Problem_8 obj;
 	//int number = obj.ReadPositiveNumber("Enter a positive number : ");
 	//int numberToCheck = obj.ReadPositiveNumber("Enter one digit to check : ");
 
 	//cout << "Number " << numberToCheck << " frequency is : " << obj.checkDigitFrequncy(number, numberToCheck);  
+#pragma endregion
+
+#pragma region 0009-Digit frequency
+					//Problem_9 obj;
+	//int number = obj.ReadPositiveNumber("Enter a positive number : ");
+
+	//obj.PrintAllDigitFrequecny(number);  
 #pragma endregion
 
 

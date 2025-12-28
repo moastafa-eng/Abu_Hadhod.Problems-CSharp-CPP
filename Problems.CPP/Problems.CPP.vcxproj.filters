@@ -46,6 +46,9 @@
     <Filter Include="Problems\0010-Print digits in order">
       <UniqueIdentifier>{33c11092-8bef-4aa2-acee-6be14b630243}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\0011-Palindrome number">
+      <UniqueIdentifier>{d5c50f2d-e0f5-4da1-9f0b-449ecc51868a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problems.CPP.cpp">
@@ -80,6 +83,9 @@
     </ClCompile>
     <ClCompile Include="Problem_10.cpp">
       <Filter>Problems\0010-Print digits in order</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_11.cpp">
+      <Filter>Problems\0011-Palindrome number</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

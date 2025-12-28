@@ -11,6 +11,7 @@
 #include "Problem_8.cpp";
 #include "Problem_9.cpp";
 #include "Problem_10.cpp";
+#include "Problem_11.cpp";
 
 int main()
 {
@@ -88,6 +89,11 @@ int main()
 	//obj.PrintDigitsInOrder(1234);  
 #pragma endregion
 
+#pragma region 0011-Palindrome number
+					//Problem_11 obj;
+	//int number = obj.ReadPositiveNumber("Enter a positive number : ");
 
+	//obj.ChekcPalindromeNumber(number);  
+#pragma endregion
 
 }

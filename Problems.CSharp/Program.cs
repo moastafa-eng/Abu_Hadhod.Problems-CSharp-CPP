@@ -7,6 +7,7 @@ using Problems.CSharp.Problems._0007_Reverse_number;
 using Problems.CSharp.Problems._0008_Count_digit_frequency;
 using Problems.CSharp.Problems._0009_Digit_frequency;
 using Problems.CSharp.Problems._0010_Print_digits_in_order;
+using Problems.CSharp.Problems._0011_Palindrome_number;
 using Problems.CSharp.Problems.Print_all__prime_numbers_from_1_to_n;
 
 namespace Problems.CSharp
@@ -89,7 +90,12 @@ namespace Problems.CSharp
             //obj.PrintDigitsInOrder(number); 
             #endregion
 
+            #region 0011-Palindrome number
+            //Problem_11 obj = new Problem_11();
+            //int number = obj.ReadPositiveNumber("Enter a positive number : ");
 
+            //obj.CheckPalindromeNumber(number); 
+            #endregion
         }
     }
 }

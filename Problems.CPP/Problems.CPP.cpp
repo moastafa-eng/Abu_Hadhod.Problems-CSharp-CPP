@@ -10,6 +10,7 @@
 #include "Problem_7.cpp";
 #include "Problem_8.cpp";
 #include "Problem_9.cpp";
+#include "Problem_10.cpp";
 
 int main()
 {
@@ -73,12 +74,20 @@ int main()
 	//cout << "Number " << numberToCheck << " frequency is : " << obj.checkDigitFrequncy(number, numberToCheck);  
 #pragma endregion
 
-#pragma region 0009-Digit frequency
+#pragma region 000.9-Digit frequency
 					//Problem_9 obj;
 	//int number = obj.ReadPositiveNumber("Enter a positive number : ");
 
 	//obj.PrintAllDigitFrequecny(number);  
 #pragma endregion
+
+#pragma region 0010-Print digits in order
+					//Problem_10 obj;
+	//int number = obj.ReadPositiveNumber("Enter a psoitve number : ");
+
+	//obj.PrintDigitsInOrder(1234);  
+#pragma endregion
+
 
 
 }

@@ -43,6 +43,9 @@
     <Filter Include="Problems\0009-Digit frequency">
       <UniqueIdentifier>{84696934-4cf3-4dc9-8f3a-e66ecd3c5c97}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Problems\0010-Print digits in order">
+      <UniqueIdentifier>{33c11092-8bef-4aa2-acee-6be14b630243}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Problems.CPP.cpp">
@@ -74,6 +77,9 @@
     </ClCompile>
     <ClCompile Include="Problem_9.cpp">
       <Filter>Problems\0009-Digit frequency</Filter>
+    </ClCompile>
+    <ClCompile Include="Problem_10.cpp">
+      <Filter>Problems\0010-Print digits in order</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
